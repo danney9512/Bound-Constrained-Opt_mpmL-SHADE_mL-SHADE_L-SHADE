@@ -23,11 +23,11 @@ removal of the terminal value, (2) addition of polynomial mutation, and (3) prop
  The detail of executation is shown down below:  
    
  * __Step 1.__ Set the parameters in "experiment_list.ini"  
-          num_problem: the number of benchmark function you are going to test  
-          probem_ID: all the index of benchmark function you are going to test  
-          problem_setting: Basic, Bias, Shift, and Rotation  
-          Dimension: the dimensions of benchmark function(D = 10, 20)  
-          Algorithm: the testing algorithms, such as L-SHADE, mL-SHADE, and mpmL-SHADE  
+          **num_problem**: the number of benchmark function you are going to test  
+          **probem_ID**: all the index of benchmark function you are going to test  
+          **problem_setting**: Basic, Bias, Shift, and Rotation  
+          **Dimension**: the dimensions of benchmark function(D = 10, 20)  
+          **Algorithm**: the testing algorithms, such as L-SHADE, mL-SHADE, and mpmL-SHADE  
          
  * __Step 2.__ Set the parameters of each algorithm in "experiments" folder.
          
