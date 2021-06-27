@@ -1,0 +1,111 @@
+﻿  alg_crossover.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_population.h(31,17): warning C4244: '正在初始化': 將 '_Rep' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_crossover.cpp(19,11): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  alg_individual.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  alg_initialization.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_population.h(31,17): warning C4244: '正在初始化': 將 '_Rep' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  alg_L-SHADE.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_population.h(31,17): warning C4244: '正在初始化': 將 '_Rep' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_L-SHADE.cpp(76,94): warning C4244: '引數': 將 'const double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_L-SHADE.cpp(76,53): warning C4244: '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_L-SHADE.cpp(212,19): warning C4244: '=': 將 'double' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_L-SHADE.cpp(242,19): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  alg_log.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_population.h(31,17): warning C4244: '正在初始化': 將 '_Rep' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_log.cpp(106,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  alg_mL-SHADE.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_population.h(31,17): warning C4244: '正在初始化': 將 '_Rep' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mL-SHADE.cpp(84,94): warning C4244: '引數': 將 'const double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mL-SHADE.cpp(84,53): warning C4244: '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mL-SHADE.cpp(227,19): warning C4244: '=': 將 'double' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mL-SHADE.cpp(255,19): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  alg_mpmL-SHADE.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_population.h(31,17): warning C4244: '正在初始化': 將 '_Rep' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mpmL-SHADE.cpp(239,94): warning C4244: '引數': 將 'const double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mpmL-SHADE.cpp(239,53): warning C4244: '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mpmL-SHADE.cpp(243,17): warning C4244: '正在初始化': 將 'double' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mpmL-SHADE.cpp(371,18): warning C4244: '=': 將 'double' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_mpmL-SHADE.cpp(407,19): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  alg_mutation.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  alg_result.cpp
+  experiment.cpp
+  main.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\alg_population.h(31,17): warning C4244: '正在初始化': 將 '_Rep' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\main.cpp(52,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\main.cpp(159,95): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\main.cpp(171,71): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\main.cpp(172,71): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\main.cpp(174,56): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\main.cpp(195,21): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  problem.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  problem_set.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  problem_test_functions.cpp
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(33,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem.h(35,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(27,32): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(611,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(647,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(683,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(720,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(757,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(795,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(1203,23): warning C4244: '=': 將 'unsigned __int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(1310,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(1356,19): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\src\problem_test_functions.cpp(1403,19): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  self_implement_functions.cpp
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 1754 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  CEC2021-SO-BCO_mpmL-SHADE.vcxproj -> E:\Mine\師大資工所\學術會議_Conference\2021CEC_Single Objective Bound Constrained Optimization Competitions\CEC2021-SO-BCO_mpmL-SHADE\x64\Release\CEC2021-SO-BCO_mpmL-SHADE.exe
