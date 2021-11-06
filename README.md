@@ -40,3 +40,8 @@ removal of the terminal value, (2) addition of polynomial mutation, and (3) prop
 ### About the results:
   Please check the "Results" folder.  
   All of computing results were proccessed by our helping program in the "Source Code\Tools" folders.
+
+### References:
+[1] J. Yeh, T. Chen and T. Chiang, "Modified L-SHADE for single objective real-parameter optimization," In: Proceedings of IEEE Congress on Evolutionary Computation (CEC2019), Wellington, New Zealand, 2019, pp. 381-386. [mL-SHADE]
+
+[2] Y. Jou, S. Wang and T. Chiang, "Multi-population modified L-SHADE for single objective bound constrained optimization," In: Proceedings of IEEE Congress on Evolutionary Computation (CEC2020), Glasgow, United Kingdom, 2020, pp. 1-8, doi: 10.1109/CEC48606.2020.9185735. [mpmL-SHADE]
